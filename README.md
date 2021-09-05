@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Samba! I'm a Software Engineer
+Design and development of software solutions and modules
 
 <!--
 **sambadjau/sambadjau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
