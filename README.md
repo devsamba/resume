@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏾
 I'm Samba! I'm a Software Engineer
 - Design and development of software solutions and modules
 
